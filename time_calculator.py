@@ -59,20 +59,7 @@ def add_time(start, duration, day =None):
 
         return time_returned
 
-print(add_time("11:06 PM", "2:02", "Friday"))
-print(add_time("11:06 PM", "300:22"))
-print(add_time("11:06 PM", "2000:12", "Tuesday"))
+# print(add_time("11:06 PM", "2:02", "Friday"))
+# print(add_time("11:06 PM", "300:22"))
+# print(add_time("11:06 PM", "2000:12", "Tuesday"))
 
-
-    
-
-    
-
-
-
-
-
-
-
-
-    #return new_time
