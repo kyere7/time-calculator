@@ -52,7 +52,7 @@ def add_time(start, duration, day =None):
 
         return time_returned
     if not day:
-        if amt_of_days== 1:
+        if amt_of_days== 1: 
             return time_returned + " " +"(next day)"
         elif amt_of_days >1:
             return time_returned + " (" + str(amt_of_days) + " days later)"
